@@ -1,6 +1,6 @@
-# User Upload Website
+# D-files Website
 
-Welcome to the User Upload Website! This platform allows users to upload various types of files such as photos, videos, documents, etc. The uploaded content is accessible to the admin through a separate app.
+Welcome to the D-files Website! This platform allows users to upload various types of files such as photos, videos, documents, etc. The uploaded content is accessible to the admin through a separate app.
 
 ## Features
 
