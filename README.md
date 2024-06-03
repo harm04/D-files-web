@@ -25,7 +25,7 @@ Welcome to the D-files Website! This platform allows users to upload various typ
 1. **Clone the Repository**:
     ```sh
     git clone https://github.com/yourusername/user-upload-website.git
-    cd user-upload-website
+    cd D-files-website
     ```
 
 2. **Set Up Firebase**:
